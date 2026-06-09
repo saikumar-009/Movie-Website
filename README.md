@@ -13,6 +13,7 @@ https://saikumar-009.github.io/Movie-Website/
 - Responsive design
 - API Integration
 - Modern UI
+- Dark-Mode
 
 ## 🛠️ Technologies Used
 
@@ -36,10 +37,10 @@ https://saikumar-009.github.io/Movie-Website/
 
 ### Movie Details
 
-![Details](./screenshots/Movie-modal.png)
+![Movie-modal](./screenshots/Movie-modal.png)
 
 ### Dark-Mode Results
-![Dark-mode](./screenshots/DarkMode.png)
+![Dark-mode](./screenshots/Dark-Mode.png)
 
 ## ⚙️ Installation
 
