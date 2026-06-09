@@ -4,7 +4,7 @@ A responsive movie browsing application built with React.js.
 
 ## 🚀 Live Demo
 
-https://your-project.vercel.app
+https://saikumar-009.github.io/Movie-Website/
 
 ## ✨ Features
 
@@ -25,15 +25,21 @@ https://your-project.vercel.app
 
 ### Home Page
 
-![Home](./screenshots/home.png)
+![Home](./screenshots/Home.png)
 
 ### Search Results
 
 ![Search](./screenshots/search.png)
 
+### SortByYear Results
+![SortByYear](./screenshots/sortBy-Order.png)
+
 ### Movie Details
 
-![Details](./screenshots/details.png)
+![Details](./screenshots/Movie-modal.png)
+
+### Dark-Mode Results
+![Dark-mode](./screenshots/DarkMode.png)
 
 ## ⚙️ Installation
 
@@ -43,7 +49,5 @@ cd movie-website
 npm install
 npm start
 ```
-
-## 👨‍💻 Author
-
-Your Name
+🙌 Thank You!
+👩‍💻 Developed by: Alupana Sai (ALUPANA SAI, Tech News)
