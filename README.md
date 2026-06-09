@@ -33,7 +33,7 @@ https://saikumar-009.github.io/Movie-Website/
 ![Search](./screenshots/search.png)
 
 ### SortByYear Results
-![sortBy-Order](./screenshots/sortBy-Order.png)
+![sortBy-Order](./screenshots/SortBy-Order.png)
 
 ### Movie Details
 
