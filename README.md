@@ -40,7 +40,7 @@ https://saikumar-009.github.io/Movie-Website/
 ![Movie-modal](./screenshots/Movie-modal.png)
 
 ### Dark-Mode Results
-![Dark-mode](./screenshots/Dark-Mode.png)
+![Dark-mode](./screenshots/DarkMode-Home.png)
 
 ## ⚙️ Installation
 
