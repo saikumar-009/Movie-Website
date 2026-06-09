@@ -33,6 +33,7 @@ https://saikumar-009.github.io/Movie-Website/
 ![Search](./screenshots/search.png)
 
 ### SortByYear Results
+
 ![sortBy-Order](./screenshots/SortBy-Order.png)
 
 ### Movie Details
@@ -40,6 +41,7 @@ https://saikumar-009.github.io/Movie-Website/
 ![Movie-modal](./screenshots/Movie-modal.png)
 
 ### Dark-Mode Results
+
 ![Dark-mode](./screenshots/DarkMode-Home.png)
 
 ## ⚙️ Installation
