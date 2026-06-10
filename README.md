@@ -205,22 +205,6 @@ npm start
 
 ---
 
-
-📁 Project Structure
-movie-explorer/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── App.jsx
-│   └── index.js
-├── screenshots/
-├── package.json
-└── README.md
-
----
-
 # 🚀 Future Improvements
 
 Planned features for future releases:
