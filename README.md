@@ -204,6 +204,9 @@ npm start
 ```
 
 ---
+
+
+
 # 📂 Project Structure
 
 bash
@@ -236,6 +239,8 @@ movie-explorer/
 
 
 ---
+
+
 
 # 🚀 Future Improvements
 
