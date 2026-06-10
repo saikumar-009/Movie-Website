@@ -206,57 +206,20 @@ npm start
 ---
 
 
-movie-website/
-│
+📁 Project Structure
+movie-explorer/
 ├── public/
-│   ├── favicon.ico
-│   └── index.html
-│
 ├── src/
-│   │
-│   ├── assets/
-│   │   ├── images/
-│   │   └── icons/
-│   │
 │   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── MovieCard.jsx
-│   │   ├── SearchBar.jsx
-│   │   ├── Footer.jsx
-│   │   └── Loading.jsx
-│   │
 │   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── MovieDetails.jsx
-│   │   ├── Favorites.jsx
-│   │
-│   ├── services/
-│   │   └── movieApi.js
-│   │
-│   ├── hooks/
-│   │   └── useMovies.js
-│   │
-│   ├── styles/
-│   │   ├── App.css
-│   │   ├── Navbar.css
-│   │   ├── MovieCard.css
-│   │   └── Home.css
-│   │
+│   ├── assets/
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
+│   └── index.js
 ├── screenshots/
-│   ├── homepage.png
-│   ├── search.png
-│   └── movie-details.png
-│
-├── README.md
 ├── package.json
-├── package-lock.json
-└── .gitignore
+└── README.md
 
-
+---
 
 # 🚀 Future Improvements
 
